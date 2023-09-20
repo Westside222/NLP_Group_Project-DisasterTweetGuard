@@ -13,6 +13,7 @@ But this approach can have many false positives. For example, the post: “The c
 So detection of words/phrases that may indicate disasters is not sufficient.
 
 The entire context of the tweets needs to be processed to classify the tweet into (1) Disaster or (2) No Disaster
+
 --------------------------------------------------------------------------------------------------------------------------
 Train and test data need to be download from https://www.kaggle.com/competitions/nlp-getting-started/data
 --------------------------------------------------------------------------------------------------------------------------
